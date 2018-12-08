@@ -1,14 +1,9 @@
 ---
 title: test
-description: testです．
-date: 2018-12-08T11:54:30.756Z
-thumbnail: /images/uploads/IMG_1515.JPG
-categories:
-  - test
-tags:
-  - photo
+description: test
+date: 2018-12-08T14:01:01.001Z
+thumbnail: /images/uploads/IMG_0007.PNG
+categories: null
+tags: null
 ---
-testです．
-
-これはテストです．
-
+か
