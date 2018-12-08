@@ -1,12 +1,13 @@
 ---
-title: 明日
-description: aaa
-date: 2018-12-08T13:52:16.055Z
-thumbnail: /images/uploads/8DD074A1-5EF1-4148-B8E9-4365D39B92FB.png
-categories:
-  - ''
-tags:
-  - ''
+title: 日本人が作る日本流パスタ
+description: 昆布出汁
+date: 2018-12-08T14:04:38.437Z
+thumbnail: /images/uploads/181116-バリラ・パスタ 002.JPG
+categories: null
+tags: null
 ---
-aaa
+昆布だしと醤油、鶏ミンチとキャベツの和風スープパスタ
 
+スープパスタはスープが少なくなりがち
+
+何度作っても治らないことはあるのだ
