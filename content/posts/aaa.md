@@ -2,7 +2,7 @@
 title: 日本人が作る日本流パスタ
 description: 昆布出汁
 date: 2018-12-08T14:04:38.437Z
-thumbnail: /images/uploads/181116-barilla 001.JPG
+thumbnail: /images/uploads/181116-barilla001.JPG
 categories: null
 tags: null
 ---
@@ -11,5 +11,6 @@ tags: null
 スープパスタはスープが少なくなりがち
 
 何度作っても治らないことはあるのだ
+
 
 
